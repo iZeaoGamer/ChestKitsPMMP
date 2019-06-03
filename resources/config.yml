@@ -1,0 +1,249 @@
+---
+
+# Developed by SilverzPlayz
+
+# Kits configuration file
+
+# Title\prefix format
+
+prefix: "&7&lRival&4Craft"
+
+# Kits configuration
+
+kits:
+
+-  name: "&lGUEST"
+
+   description: "Starter kit for guests!"
+
+   kit.item:
+
+     item: "chest:1"
+
+     name: "&b(KIT) &lGUEST"
+
+     lore:
+
+     - "&7Grants basic tools for a great start"
+
+   cooldown: 21600 # seconds
+
+   perm: kit.guest
+
+   icon: "https://"
+
+   items:
+
+   - "diamond_helmet:0:1:&8&l[&fGUEST&8]&r &bHelmet:0:1"
+
+   - "diamond_chestplate:0:1:&8&l[&fGUEST&8]&r &bChestplate:0:1"
+
+   - "diamond_leggings:0:1:&8&l[&fGUEST&8]&r &bLeggings:0:1"
+
+   - "diamond_boots:0:1:&8&l[&fGUEST&8]&r &bBoots:0:1"
+
+   - "diamond_sword:0:1:&8&l[&fGUEST&8]&r &bSword:9:1:17:1"
+
+   - "diamond_pickaxe:0:1:&8&l[&fGUEST&8]&r &bPickaxe:15:1:17:1"
+
+   - "diamond_axe:0:1:&8&l[&fGUEST&8]&r &bAxe:9:1:17:1:15:1:18:1"
+
+   - "diamond_shovel:0:1:&8&l[&fGUEST&8]&r &bShovel:15:1:17:1"
+
+   - "golden_apple:0:8"
+
+   - "131:0:1:(KEY)"
+
+-  name: "&l&6STRIKER"
+
+   description: "Stuggle begins when you start striking!"
+
+   kit.item:
+
+     item: "chest:2"
+
+     name: "&b(KIT) &l&6STRIKER"
+
+     lore:
+
+     - "&7Grants low-end tools for defense, attack and strategy"
+
+   cooldown: 21600 # seconds
+
+   perm: kit.striker
+
+   icon: "https://"
+
+   items:
+
+   - "diamond_helmet:0:1:&8&l[&6STRIKER&8]&r &bHelmet:0:2"
+
+   - "diamond_chestplate:0:1:&8&l[&6STRIKER&8]&r &bChestplate:0:2"
+
+   - "diamond_leggings:0:1:&8&l[&6STRIKER&8]&r &bLeggings:0:2"
+
+   - "diamond_boots:0:1:&8&l[&6STRIKER&8]&r &bBoots:0:2"
+
+   - "diamond_sword:0:1:&8&l[&6STRIKER&8]&r &bSword:9:2:17:2"
+
+   - "diamond_pickaxe:0:1:&8&l[&6STRIKER&8]&r &bPickaxe:15:2:17:2"
+
+   - "diamond_axe:0:1:&8&l[&6STRIKER&8]&r &bAxe:9:2:17:2:15:2:18:2"
+
+   - "diamond_shovel:0:1:&8&l[&6STRIKER&8]&r &bShovel:15:2:17:2"
+
+   - "golden_apple:0:16"
+
+   - "49:0:16"
+
+   - "131:1:1:(KEY)"
+
+   - "131:1:2:(KEY)"
+
+-  name: "&l&5SLAYER"
+
+   description: "War starts when you slay someone!"
+
+   kit.item:
+
+     item: "chest:3"
+
+     name: "&b(KIT) &l&5SLAYER"
+
+     lore:
+
+     - "&7Grants good tools for defense, attack and strategy"
+
+   cooldown: 21600 # seconds
+
+   perm: kit.slayer
+
+   icon: "https://"
+
+   items:
+
+   - "diamond_helmet:0:1:&8&l[&5SLAYER&8]&r &bHelmet:0:3"
+
+   - "diamond_chestplate:0:1:&8&l[&5SLAYER&8]&r &bChestplate:0:3"
+
+   - "diamond_leggings:0:1:&8&l[&5SLAYER&8]&r &bLeggings:0:3"
+
+   - "diamond_boots:0:1:&8&l[&5SLAYER&8]&r &bBoots:0:3"
+
+   - "diamond_sword:0:1:&8&l[&5SLAYER&8]&r &bSword:9:3:17:3"
+
+   - "diamond_pickaxe:0:1:&8&l[&5SLAYER&8]&r &bPickaxe:15:3:17:3"
+
+   - "diamond_axe:0:1:&8&l[&5SLAYER&8]&r &bAxe:9:3:17:3:15:3:18:3"
+
+   - "diamond_shovel:0:1:&8&l[&5SLAYER&8]&r &bShovel:15:3:17:3"
+
+   - "golden_apple:0:32"
+
+   - "49:0:32"
+
+   - "131:1:1:(KEY)"
+
+   - "131:1:2:(KEY)"
+
+-  name: "&l&8DARK"
+
+   description: "Hello darkness my old friend."
+
+   kit.item:
+
+     item: "chest:4"
+
+     name: "&b(KIT) &l&8DARK"
+
+     lore:
+
+     - "&7Grants strong tools for defense, attack and strategy"
+
+   cooldown: 21600 # seconds
+
+   perm: kit.dark
+
+   icon: "https://"
+
+   items:
+
+   - "diamond_helmet:0:1:&8&l[&8DARK&8]&r &bHelmet:0:4"
+
+   - "diamond_chestplate:0:1:&8&l[&8DARK&8]&r &bChestplate:0:4"
+
+   - "diamond_leggings:0:1:&8&l[&8DARK&8]&r &bLeggings:0:4"
+
+   - "diamond_boots:0:1:&8&l[&8DARK&8]&r &bBoots:0:4"
+
+   - "diamond_sword:0:1:&8&l[&8DARK&8]&r &bSword:9:4:17:3"
+
+   - "diamond_pickaxe:0:1:&8&l[&8DARK&8]&r &bPickaxe:15:4:17:3"
+
+   - "diamond_axe:0:1:&8&l[&8DARK&8]&r &bAxe:9:4:17:3:15:4:18:3"
+
+   - "diamond_shovel:0:1:&8&l[&8DARK&8]&r &bShovel:15:4:17:3"
+
+   - "golden_apple:0:64"
+
+   - "49:0:64"
+
+   - "466:0:8"
+
+   - "bedrock:0:8"
+
+   - "131:1:1:(KEY)"
+
+   - "131:1:2:(KEY)"
+
+-  name: "&l&eRIVAL"
+
+   description: "Everyone fears thier rivals even a bit, never know, they can always be stronger!"
+
+   kit.item:
+
+     item: "chest:5"
+
+     name: "&b(KIT) &l&eRIVAL"
+
+     lore:
+
+     - "&7Grants high-end strong tools for defense, attack and strategy"
+
+   cooldown: 21600 # seconds
+
+   perm: kit.rival
+
+   icon: "https://"
+
+   items:
+
+   - "diamond_helmet:0:1:&8&l[&eRIVAL&8]&r &bHelmet:0:5"
+
+   - "diamond_chestplate:0:1:&8&l[&eRIVAL&8]&r &bChestplate:0:5"
+
+   - "diamond_leggings:0:1:&8&l[&eRIVAL&8]&r &bLeggings:0:5"
+
+   - "diamond_boots:0:1:&8&l[&eRIVAL&8]&r &bBoots:0:5"
+
+   - "diamond_sword:0:1:&8&l[&eRIVAL&8]&r &bSword:9:5:17:3"
+
+   - "diamond_pickaxe:0:1:&8&l[&eRIVAL&8]&r &bPickaxe:15:5:17:3"
+
+   - "diamond_axe:0:1:&8&l[&eRIVAL&8]&r &bAxe:9:5:17:3:15:5:18:4"
+
+   - "diamond_shovel:0:1:&8&l[&eRIVAL&8]&r &bShovel:15:5:17:3"
+
+   - "golden_apple:0:64"
+
+   - "49:0:64"
+
+   - "466:0:16"
+
+   - "bedrock:0:32"
+
+   - "131:1:1:(KEY)"
+
+   - "131:1:2:(KEY)"
+
+...
