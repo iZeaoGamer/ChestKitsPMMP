@@ -22,7 +22,7 @@ use pocketmine\nbt\NetworkLittleEndianNBTStream;
 
 use kits\Kit;
 
-class KitInventory extends BaseInventory{
+class KitsInventory extends BaseInventory{
 
 		/** @var Position */
 
