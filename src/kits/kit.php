@@ -12,7 +12,7 @@ use pocketmine\nbt\tag\ListTag;
 
 use kits\inventory\KitInventory;
 
-class Kit{
+class kit{
 
 		/** @var string */
 
