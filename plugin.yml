@@ -1,0 +1,20 @@
+---
+name: ChestKitsPMMP
+version: 1.0.0
+api:
+- 3.0.0
+- 4.0.0
+author: SilverzPlayz
+main: kits\Core
+description: "A UI Based advanced kits plugin"
+commands:
+  kits:
+    aliases: ["kit"]
+    permission: "kits.cmd"
+    description: "Claim a kit"
+permissions:
+  kits.cmd:
+    default: true
+    description: "Allows to use /kits"
+
+...
